@@ -16,5 +16,5 @@
         android:id="@+id/action_help"
         android:icon="@android:drawable/ic_menu_help"
         android:title="Help"
-        app:showAsAction="ifRoom" />
+        app:showAsAction="collapseActionView" />
 </menu>
